@@ -8,7 +8,7 @@ If the data included the original photos of the hand with the background, then t
 
 But the main point of this competition is exactly this point, which shows how far image preprocessing can make changes in accuracy.
 
-Because, as a rule, if the images were original, with the background in 2 epochs, you would not reach 100% accuracy.
+Because, as a rule, if the images were original, with the background, the model would not reach 100% accuracy in 2 epochs.
 
 
 because original images of hand finger numbers for optimizing the model can take more time and resources in the face of iteration training loops or "epochs". but when images are preprocessed like mask images in this competition . the model can converge faster
