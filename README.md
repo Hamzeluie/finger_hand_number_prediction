@@ -1,4 +1,4 @@
-# finger_hand_number_prediction
+# finger hand number prediction
 
 this competition was created in Quera and I solved this by Transfer learning on 'vgg19'
 
